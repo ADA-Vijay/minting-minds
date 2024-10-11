@@ -13,7 +13,7 @@ const Footer = () => {
         data-aos-offset="0"
         className="title"
       >
-        Let's talk.
+        Let&apos;s talk.
       </h1>
       <a href="mailto:info@mintingminds.com" target="_blank">
         <p

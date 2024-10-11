@@ -300,11 +300,11 @@ export default function Home() {
                     className="text-fill2 span1 inline-text-fill-2"
                      style={{position: "absolute", whiteSpace: "nowrap", overflow: "hidden", maxWidth: "9rem"}}
                   >
-                    We're
+                    We&apos;re
                   </span>
                   <span className="inline-span" 
                    style={{color: "#3f3f3f"}}
-                  >We're </span>
+                  >We&apos;re </span>
                   <span
                     className="text-fill2 text-fill3 span2 inline-text-fill-3"
                      style={{position: "absolute", whiteSpace: "nowrap", whiteSpace: "nowrap", overflow: "hidden", maxWidth: "23rem"}}
@@ -348,12 +348,12 @@ export default function Home() {
                     className="text-fill2 m-span1 inline-text-fill-6"
                     // style={{position: "absolute", whiteSpace: "nowrap" ,overflow: "hidden", maxWidth: "9rem"}}
                   >
-                    We're
+                    We&apos;re
                   </span>
                   <span 
                   // style={{color: "#3f3f3f"}}
                   className="inline-span" 
-                  >We're </span>
+                  >We&apos;re </span>
                   <span
                     className="text-fill2 text-fill3 m-span2 inline-text-fill-7"
                     // style={{position: "absolute", whiteSpace: "nowrap", whiteSpace: "nowrap", overflow: "hidden", maxWidth: "23rem"}}
@@ -444,8 +444,8 @@ export default function Home() {
                       </h1>
                       <p>
                         Choose your preferred plan to start and cancel or pause
-                        at anytime you like. So you're as flexible as your
-                        business' needs
+                        at anytime you like. So you&apos;re as flexible as your
+                        business&apos; needs
                       </p>
                     </div>
                   </div>
@@ -584,7 +584,7 @@ export default function Home() {
                       <div className="code-div">
                         <div className="mint-text-div">
                           <p className="mint-text">
-                            FeatureSection &rcub; from 'minting-minds';
+                            FeatureSection &rcub; from &apos;minting-minds&apos;;
                           </p>
                           <p className="mint-text">
                             {" "}
@@ -600,13 +600,13 @@ export default function Home() {
                           <p className="mint-text"> );</p>
                           <p className="mint-text"> &lcub;</p>
                           <p className="mint-text"> export default App;</p>
-                          <p className="mint-text"> ``'</p>
+                          <p className="mint-text"> ``&apos;</p>
                           <p className="mint-text">
-                            import React from 'react';
+                            import React from &apos;react&apos;;
                           </p>
                           <p className="mint-text">
                             import &rcub Header, Footer, HeroSection,
-                            FeatureSection &lcub from 'minting-minds';
+                            FeatureSection &lcub from &apos;minting-minds&apos;;
                           </p>
                           <p className="mint-text">
                             const App = () =&gt; &lcub;
@@ -617,15 +617,15 @@ export default function Home() {
                           <p className="mint-text"> &lt;HeroSection </p>
                           <p className="mint-text">
                             {" "}
-                            title="Welcome to minting minds"
+                            title=&quot;Welcome to minting minds&quot;
                           </p>
                           <p className="mint-text">
                             {" "}
-                            subtitle="A modern website template for showcasing
-                            your content"
+                            subtitle=&quot;A modern website template for showcasing
+                            your content&quot;
                           </p>
-                          <p className="mint-text"> buttonLabel="Learn More"</p>
-                          <p className="mint-text"> buttonLink="/about'</p>
+                          <p className="mint-text"> buttonLabel=&quot;Learn More&quot;</p>
+                          <p className="mint-text"> buttonLink=&quot;/about&quot;;</p>
                         </div>
                         <div className="code-cursor-img">
                           <div className="cursor-div">
@@ -686,8 +686,8 @@ export default function Home() {
                         <span className="ps-2">Test & optimise</span>
                       </h1>
                       <p>
-                        You either approve or request revisions - we're
-                        dedicated to refining our builds until you're fully
+                        You either approve or request revisions - we&apos;re
+                        dedicated to refining our builds until you&apos;re fully
                         satisfied.
                       </p>
                     </div>
@@ -789,7 +789,7 @@ export default function Home() {
                               <p className="single-pink">AI Agent</p>
                               <p>
                                 The AI agent processes the ticket and responds
-                                to the user's enquiry.
+                                to the user&apos;s enquiry.
                               </p>
                             </div>
                           </div>
@@ -841,7 +841,7 @@ export default function Home() {
                                 </div>
                                 <div className="p-area">
                                   <p className="single-pink p1">AI assistant</p>
-                                  <p className="p2">Sure, here's a summary:</p>
+                                  <p className="p2">Sure, here&apos;s a summary:</p>
                                 </div>
                               </div>
                               <div className="d-p-wrap">
@@ -851,7 +851,7 @@ export default function Home() {
                                 <p className="d-p">
                                   increase in revenue to €120 million
                                 </p>
-                                <p className="d-p">from the previous year's…</p>
+                                <p className="d-p">from the previous year&apos;s…</p>
                               </div>
                             </div>
                           </div>
@@ -1027,7 +1027,7 @@ export default function Home() {
                       </div>
                       <p className="mt-2 dropdown-p">
                         Shoppio is an AI-powered shopping assistant designed to
-                        enhance your customers' shopping experience. By offering
+                        enhance your customers&apos; shopping experience. By offering
                         smart filtering options for features and price, Shoppio
                         helps users quickly find your products that meet their
                         specific needs. With instant access to detailed product
